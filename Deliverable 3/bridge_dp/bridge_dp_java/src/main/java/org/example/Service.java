@@ -68,6 +68,8 @@ public class Service {
     /**
      * 
      */
+    private Reservation reservation;
+
     public void setters() {
         // TODO implement here
     }
